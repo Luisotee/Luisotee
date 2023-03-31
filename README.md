@@ -10,8 +10,8 @@
 - ✈Always looking for new challenges!
 - 🌏I speak portuguese, english, spanish and learning italian
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 📫 How to reach me:
+You can reach me at the email in my Github profile. Follow my socials!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/luisotee/?locale=en_US)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/luisotee_/)
