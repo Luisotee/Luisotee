@@ -1,16 +1,28 @@
-### Hi there 👋
+# Lucas de Abreu
 
-<!--
-**Luisotee/Luisotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! ☀
 
-Here are some ideas to get you started:
+### Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 Sorocaba/SP, Brazil
+- 🦸‍♂️I am look for my first opportunity
+- 👨‍💻I currently study web development with react and also android development with react native
+- ✈Always looking for new challenges!
+- 🌏I speak portuguese, english, spanish and learning italian
+
+My Linkedin!
+<br>
+<a href="https://www.linkedin.com/in/lucas-abreu-garcia/](https://www.linkedin.com/in/luisotee/?locale=en_US">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="left" alt="LinkedIn"> 
+</a>
+
+<br>
+
+----
+
+  <summary align="left">GitHub Profile Stats 🧭</summary>
+   <div>
+    <a href="https://github.com/Luisotee">
+   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Luisotee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisotee&layout=compact&hide=html&langs_count=16&theme=dracula"/>
+  <div>
