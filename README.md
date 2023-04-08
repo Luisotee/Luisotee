@@ -4,9 +4,9 @@
 
 ### Welcome to my profile
 
-- 🇧🇷 Sorocaba/SP, Brazil
+- 🇧🇷 Sorocaba-São Paulo, Brazil
 - 🦸‍♂️I am look for my first opportunity
-- 👨‍💻I currently study web development with react and also android development with react native
+- 👨‍💻Currently, I am studying web development with React and Android development with React Native. In addition, I am pursuing a degree in computer engineering at FACENS.
 - ✈Always looking for new challenges!
 - 🌏I speak portuguese, english, spanish and learning italian
 
