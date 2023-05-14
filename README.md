@@ -5,10 +5,10 @@
 ### Welcome to my profile
 
 - 🇧🇷 Sorocaba-São Paulo, Brazil
-- 🦸‍♂️I am look for my first opportunity
+- 🦸‍♂️I am searching for my first opportunity
 - 👨‍💻Currently, I am studying web development with React and Android development with React Native. In addition, I am pursuing a degree in computer engineering at FACENS.
-- ✈Always looking for new challenges!
-- 🌏I speak portuguese, english, spanish and learning italian
+- ✈Always seeking new challenges!
+- 🌏I speak Portuguese, English, and Spanish, and I am currently learning Italian
 
 ## 📫 How to reach me:
 You can reach me at the email in my Github profile. Follow my socials!
