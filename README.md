@@ -11,7 +11,7 @@
 - 🌏 I am fluent in Portuguese and English, and I have proficiency in Spanish. Currently, I am learning Italian.
 
 ## 📫 How to reach me:
-You can contact me via email at luisotaviomgr1@gmail.com. Feel free to connect with me on social media too!
+You can contact me via email at luisotaviomgrcont@gmail.com. Feel free to connect with me on social media too!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/luisotee/?locale=en_US)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/luisotee_/)
