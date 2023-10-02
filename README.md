@@ -5,7 +5,7 @@
 ### Welcome to my profile
 
 - 🇧🇷 Sorocaba-São Paulo, Brazil
-- 🦸‍♂️ I am currently seeking my first opportunity in the field.
+- 🦸‍♂️ I am currently working in the backend area with Node.JS
 - 👨‍💻 I am currently studying web development with React and Mobile development with React Native. I'm also learning backend development with Node.js. Additionally, I am pursuing a degree in computer engineering at FACENS.
 - ✈️ I am always eager to take on new challenges!
 - 🌏 I am fluent in Portuguese and English. Currently, I am learning Italian and Spanish.
