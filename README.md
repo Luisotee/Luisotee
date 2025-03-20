@@ -8,7 +8,7 @@
 - 🦸‍♂️ I am currently working in the backend area with Node.JS
 - 👨‍💻 I am currently studying web development with React and Mobile development with React Native. I'm also learning backend development with Node.js. Additionally, I am pursuing a degree in computer engineering at FACENS.
 - ✈️ I am always eager to take on new challenges!
-- 🌏 I am fluent in Portuguese and English. Currently, I am learning Italian and Spanish.
+- 🌏 I am fluent in Portuguese and English. Currently, I am learning Italian and German.
 
 ## 📫 How to reach me:
 You can contact me via email at luisotaviomgrcont@gmail.com. Feel free to connect with me on social media too!
